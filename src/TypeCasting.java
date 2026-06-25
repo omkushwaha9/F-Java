@@ -20,5 +20,8 @@ public class TypeCasting {
 //        int number = 'A' ;
 //        System.out.print(number);
 
+        // compiler always gives you the output in higher value as the decimal(float) is bigger then integer
+//        System.out.println( 3 * 4.7);
+
     }
 }
