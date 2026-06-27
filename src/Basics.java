@@ -23,8 +23,8 @@ public class Basics {
 //        for (int count = 1; count <= 10; count++){
 //            System.out.println(count);
 //        }
-        for (int i = 1; i <=9; i++){
-            System.out.println(i);
-        }
+//       for (int i = 1; i <=9; i++){
+//            System.out.println(i);
+//        }
     }
 }
