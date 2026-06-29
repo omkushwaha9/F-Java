@@ -35,11 +35,24 @@ public class Loops {
         */
         //  for (int num= 1; num <= 9; num+= 1){
         //      System.out.println(num);
+//        int num = 1;
+//        while (num <= 10 ){
+//            System.out.println(num);
+//            num += 1;
+//            }
+
+        // do While
+        /*
+        Syntax:
+        do{
+        // body
+        } while (condition);
+         */
         int num = 1;
-        while (num <= 10 ){
-            System.out.println(num);
-            num += 1;
-        }
+        do {
+            System.out.println("Hello World!");
+        } while(num != 0);
+
 
     }
 }
