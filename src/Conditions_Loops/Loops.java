@@ -51,8 +51,6 @@ public class Loops {
         int num = 1;
         do {
             System.out.println("Hello World!");
-        } while(num != 0);
-
-
+        } while(num != 1);
     }
 }
