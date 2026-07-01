@@ -10,6 +10,6 @@ public class Largest {
         int c = input.nextInt();
 
         // Find the largest of the 3 numbers
-        
+
     }
 }
